@@ -21,6 +21,8 @@ public class Pasajero extends javax.swing.JFrame {
     int idVueloSeleccionado=0;
     /**
      * Creates new form Pasajeros
+     * 
+     * esto es un cambio
      */
     public Pasajero() {
         initComponents();
